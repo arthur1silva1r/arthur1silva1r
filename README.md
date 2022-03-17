@@ -4,7 +4,7 @@ Aqui estão algumas informações sobre mim:
 
 - :rocket: Estudante de Desenvolvimento Web na Trybe
 - 🔭 Atualmente trabalho como Customer Experience na AeC
-- 🌱 Atualmente estudando Node.js
+- 🌱 Atualmente estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
 -- Tecnologias que utilizo:
 <div>
