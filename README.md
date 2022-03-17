@@ -6,7 +6,7 @@ Aqui estão algumas informações sobre mim:
 - 🔭 Atualmente trabalho como Customer Experience na AeC
 - 🌱 Atualmente estudando Node.js
 
--- Tecnologias que utilizo:
+- Tecnologias que utilizo:
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,4 +16,10 @@ Aqui estão algumas informações sobre mim:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+- Redes:
+<div>
+  <a href = "mailto:arthur1silva1r@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/arthur1silva1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
