@@ -8,7 +8,7 @@ Aqui estão algumas informações sobre mim:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1silva1r&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Arthur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5e6cd6fb-21fb-4642-9256-f7aa5747af99)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arthur1silva1r)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -- Tecnologias que utilizo:
