@@ -1,4 +1,4 @@
-### Olá, me chamo Arthur Silva👋
+### Olá, me chamo Arthur Silva 👋
 
 Aqui estão algumas informações sobre mim:
 
