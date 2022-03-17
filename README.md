@@ -25,5 +25,6 @@ Aqui estão algumas informações sobre mim:
   <a href = "mailto:arthur1silva1r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/arthur1silva1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+<br/>
+<br/>
 <a href="https://wakatime.com/@5e6cd6fb-21fb-4642-9256-f7aa5747af99"><img src="https://wakatime.com/badge/user/5e6cd6fb-21fb-4642-9256-f7aa5747af99.svg" alt="Total time coded since Mar 17 2022" /></a>
