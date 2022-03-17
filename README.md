@@ -8,8 +8,7 @@ Aqui estão algumas informações sobre mim:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1silva1r&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)]
 
 -- Tecnologias que utilizo:
 <div>
