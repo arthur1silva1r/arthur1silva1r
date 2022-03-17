@@ -1,6 +1,6 @@
 ### Olá, me chamo Arthur Silva👋
 
-Here are some ideas to get you started:
+Aqui estão algumas informações sobre mim:
 
 - :rocket: Estudante de Desenvolvimento Web na Trybe
 - 🔭 Atualmente trabalho como Customer Experience na AeC
