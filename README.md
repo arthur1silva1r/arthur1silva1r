@@ -8,7 +8,7 @@ Aqui estão algumas informações sobre mim:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1silva1r&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
--- Tecnologias que utilizo:
+## Tecnologias que utilizo:
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
