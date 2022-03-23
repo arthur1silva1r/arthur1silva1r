@@ -1,4 +1,4 @@
-### Olá, me chamo Arthur Silva 👋
+# Olá, me chamo Arthur Silva 👋
 
 Aqui estão algumas informações sobre mim:
 
@@ -20,8 +20,7 @@ Aqui estão algumas informações sobre mim:
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br/>
-<br/>
--- Redes:
+## Redes:
 <div>
   <a href = "mailto:arthur1silva1r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/arthur1silva1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
