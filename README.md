@@ -4,7 +4,7 @@ Aqui estão algumas informações sobre mim:
 
 - :rocket: Estudante de Desenvolvimento Web na Trybe
 - 🔭 Atualmente trabalho como Customer Experience na AeC. Buscando oportunidade como Desenvolvedor.
-- 🌱 Atualmente estudando  <img align="center" alt="bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+- 🌱 Atualmente estudando  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur1silva1r&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,6 +18,7 @@ Aqui estão algumas informações sobre mim:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="bash" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </div>
 <br/>
 
